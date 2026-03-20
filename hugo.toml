@@ -32,7 +32,7 @@ copyright = "zkk"
 #桌面端右上角code按钮
 [params.github]
   enable = true #true显示 false隐藏
-  url = "https://github.com/zyy200712/navzk"
+  url = "https://github.com/zyy200712/navzk/blob/main/hugo.toml"
   
 [permalinks]  
   404 = "/404.html"
