@@ -7,7 +7,7 @@ theme = "hugo-webstack"
 disablePathToLower = true
 
 #页脚：作者名字
-copyright = "oulh"
+copyright = "zkk"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
@@ -32,7 +32,7 @@ copyright = "oulh"
 #桌面端右上角code按钮
 [params.github]
   enable = true #true显示 false隐藏
-  url = "https://github.com/oulh/nav"
+  url = "https://github.com/zyy200712/navzk"
   
 [permalinks]  
   404 = "/404.html"
