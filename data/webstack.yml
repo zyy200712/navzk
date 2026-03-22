@@ -1,175 +1,235 @@
-- taxonomy: 常用网站
-  icon: fa-star
+- taxonomy: 个人导航
+  icon: fa-compass
   links:
-    - title: 聚 BT
+    - title: zk 导航
       logo: 
-      url: https://jubt.fun/cn/index.html
-      description: 聚BT搜索。
-    - title: 易搜
+      url: https://d.zcr.de5.net/
+      description: ZK个人导航页。
+    - title: CMoonTV
       logo: 
-      url: https://yiso.fun/info?searchKey=%E4%B9%90%E4%B9%90
-      description: 易搜搜索引擎。
-    - title: 订阅转换 2
+      url: https://cmoontv.dedyn.io/douban?type=movie
+      description: CMoon影视站。 (Tips: 5134541165zbb)
+    - title: KVdeio
       logo: 
-      url: https://subw.r07.cloudns.be/
-      description: 订阅转换工具2。
+      url: https://ys.zk0.de5.net/
+      description: KV影视站。 (Tips: zbb)
+    - title: FK 导航
+      logo: 
+      url: https://d.zcr7.xx.kg/
+      description: FK导航页。
+    - title: 导航 adminF7
+      logo: 
+      url: https://d.zcr9.qzz.io/
+      description: 管理员导航。
+    - title: 导
+      logo: 
+      url: https://dao.zcr7.xx.kg/
+      description: 简易导航页。
+    - title: 导航 㭒
+      logo: 
+      url: https://d.zyy7.qzz.io/
+      description: 导航页。
+    - title: 小站
+      logo: 
+      url: https://pan666.net/
+      description: 小站导航。
+    - title: 影搜
+      logo: 
+      url: https://yingso.fun/#/
+      description: 影视搜索。
+    - title: 导航４
+      logo: 
+      url: https://menubarx.app/search/
+      description: MenuBarX搜索。
+    - title: Noise 导航
+      logo: 
+      url: https://www.noisedh.cn/
+      description: Noise导航。
+    - title: 万有导航
+      logo: 
+      url: https://wanyouw.com/
+      description: 万有导航。
+    - title: 老王导航
+      logo: 
+      url: https://nav.eooce.com/
+      description: 老王导航。
+    - title: 迷鹿导航
+      logo: 
+      url: https://404l.com/
+      description: 迷鹿导航。
+    - title: 龙轩导航
+      logo: 
+      url: http://ilxdh.com/
+      description: 龙轩导航。
+    - title: 吾爱导航
+      logo: 
+      url: https://www.gxfcseo.com/
+      description: 吾爱导航。
+    - title: 书签地球
+      logo: 
+      url: https://www.bookmarkearth.cn/
+      description: 书签地球。
+    - title: 奇迹秀
+      logo: 
+      url: https://www.qijishow.com/
+      description: 奇迹秀。
+    - title: 工具达人
+      logo: 
+      url: https://dartools.com/
+      description: 工具达人。
+    - title: 爱达杂货铺
+      logo: 
+      url: https://adzhp.com/
+      description: 爱达杂货铺。
+    - title: 影视森翻
+      logo: 
+      url: https://549.tv/
+      description: 影视森。
+    - title: p 动漫
+      logo: 
+      url: https://www.295k.cc/
+      description: 动漫网站。
+
+- taxonomy: 语文博客
+  icon: fa-book-open
+  links:
+    - title: 帊帊🔭瓷
+      logo: 
+      url: https://as.zcr25.dedyn.io/
+      description: 个人博客。
+    - title: 帊帊🔭瓷 G
+      logo: 
+      url: https://as.zcr25.dedyn.io/admin
+      description: 博客管理后台。
+    - title: 掱掱斯
+      logo: 
+      url: https://www.zcr6.ggff.net/
+      description: 个人博客。
+    - title: 掱掱斯 G
+      logo: 
+      url: https://github.com/zbb7001/k.github.io/tree/master/_posts
+      description: GitHub博客仓库。
+    - title: 苩苩丝
+      logo: 
+      url: https://bo.zcr06.filegear-sg.me/
+      description: 个人博客。
+    - title: BB loG
+      logo: 
+      url: https://b.zk0.de5.net/?p=96
+      description: BB博客。
+    - title: 古诗文网
+      logo: 
+      url: https://www.gushiwen.cn/shiwenv.aspx?id=8def13da8f71
+      description: 古诗文网。
+    - title: 筢筢🔭嬨
+      logo: 
+      url: https://hx.zcr25.dedyn.io/archives
+      description: 博客归档。
+    - title: 筢筢🔭嬨 G
+      logo: 
+      url: https://github.com/zcr07/hexo/tree/main/source/_posts
+      description: Hexo博客源码。
+    - title: 皅皅🔭慈
+      logo: 
+      url: https://n.zcr7.ip-ddns.com/
+      description: 个人博客。
+    - title: 爬爬🔭茨
+      logo: 
+      url: https://y.zcr8.ddns-ip.net/
+      description: 个人博客。
+    - title: wasmer
+      logo: 
+      url: https://wasmer.io/apps/zkkev53/zk123/settings/domains
+      description: Wasmer应用设置。
+    - title: 葩葩🔭思
+      logo: 
+      url: https://7.zcr5.ddns-ip.net/
+      description: 个人博客。
+    - title: 帕帕斯
+      logo: 
+      url: https://kevzcr.serv00.net/
+      description: 帕帕斯博客。
+    - title: 袙袙斯
+      logo: 
+      url: https://bo.h07.dpdns.org/
+      description: 个人博客。
+    - title: 袙袙斯 G
+      logo: 
+      url: https://github.com/zbb7001/zb.github.io/tree/master/z
+      description: GitHub博客仓库。
+    - title: 测速地址
+      logo: 
+      url: https://your.ls/v89nx
+      description: 测速地址。
+    - title: 成语c
+      logo: 
+      url: https://w.zk0.de5.net/
+      description: 成语查询。
     - title: 订阅
       logo: 
-      url: https://sub.cmliussss.com/
-      description: CM订阅链接。
-    - title: 订阅
+      url: https://your.ls/suu86
+      description: 订阅链接。
+    - title: APIKEY
       logo: 
-      url: https://suburl.v1.mk/
-      description: 订阅链接转换。
-    - title: Google 活动记录
+      url: https://your.ls/3fme9
+      description: API密钥。
+    - title: 舥舥🔭兹
       logo: 
-      url: https://myactivity.google.com/myactivity?utm_source=chrome_h&pli=1
-      description: Google活动记录。
-    - title: Gcore zcr
+      url: https://bg.zcr25.x10.mx/
+      description: 个人博客。
+    - title: 舥舥🔭兹 G
       logo: 
-      url: https://portal.gcore.com/cdn/resources/list
-      description: Gcore CDN管理。
-    - title: cloudflare ip
+      url: https://github.com/zcr07/git-blog-share/tree/main
+      description: 博客分享仓库。
+    - title: 域名
       logo: 
-      url: https://www.cloudflare-cn.com/ips/
-      description: Cloudflare IP列表。
-    - title: 传文件
+      url: https://your.ls/4xs2d
+      description: 域名列表。
+    - title: 反代
       logo: 
-      url: https://www.wenshushu.cn
-      description: 文叔叔传文件。
-    - title: 丁丁传文件
+      url: https://your.ls/265ag
+      description: 反代配置。
+    - title: 笔记
       logo: 
-      url: https://file.r07.cloudns.be/index.html
-      description: 丁丁文件传输。
-    - title: deepl
+      url: https://your.ls/9b7j4
+      description: 笔记记录。
+    - title: ser4
       logo: 
-      url: https://www.deepl.com/zh/translator
-      description: DeepL翻译。
-    - title: 丁丁设置
+      url: https://panel4.serv00.com/file_manager/
+      description: Serv00文件管理。
+    - title: 琶琶 编辑
       logo: 
-      url: https://file.r07.cloudns.be/list.html
-      description: 丁丁设置页面。
-    - title: 公式编辑
+      url: https://github.com/zb9678/zb9678.github.io/issues/2
+      description: GitHub Issues编辑。
+    - title: 琶琶🔭啙 G
       logo: 
-      url: https://www.latexlive.com/
-      description: LaTeX公式编辑器。
-    - title: tinypng
+      url: https://github.com/zb9678/zb9678.github.io/issues
+      description: GitHub Issues。
+    - title: 叭叭粢
       logo: 
-      url: https://tinypng.com/
-      description: 图片压缩工具。
-    - title: pdf24
+      url: https://0.zbb25.filegear-sg.me/
+      description: 个人博客。
+    - title: 趴趴🔭鹚
       logo: 
-      url: https://tools.pdf24.org/zh/
-      description: PDF24工具集。
-    - title: TTs 2000 字
+      url: https://k.zcr6.ddns-ip.net/
+      description: 个人博客。
+    - title: 1.html
       logo: 
-      url: https://tts.femoon.top/cn
-      description: 文本转语音。
-    - title: csdn
+      url: https://ser09.rr.nu/1.html
+      description: 页面1。
+    - title: Notion
       logo: 
-      url: https://blog.csdn.net/z516888?type=blog
-      description: CSDN博客。
-    - title: 时间戳转换
+      url: https://z.zcr9.qzz.io/
+      description: Notion页面。
+    - title: notion set
       logo: 
-      url: https://tool.lu/timestamp
-      description: 时间戳转换工具。
-    - title: 在线工具
+      url: https://www.notion.so/24717e598c0980afacbdffc17f854799?v=24717e598c0981bda767000cdad540ef
+      description: Notion设置页。
+    - title: notion2
       logo: 
-      url: https://tool.lu/
-      description: 在线工具集。
-    - title: idx
+      url: https://r.zb9.dpdns.org/
+      description: Notion备用页。
+    - title: 词典
       logo: 
-      url: https://idx.google.com/z517-99013236
-      description: Google IDX。
-    - title: 虫洞
-      logo: 
-      url: https://wormhole.app/
-      description: 虫洞文件传输。
-    - title: 云沙箱 8
-      logo: 
-      url: https://s.threatbook.com/
-      description: 微步在线云沙箱。
-    - title: 直链
-      logo: 
-      url: https://link.gimhoy.com/
-      description: 直链获取工具。
-    - title: 菜鸟工具
-      logo: 
-      url: https://www.jyshare.com/
-      description: 菜鸟工具。
-    - title: groq
-      logo: 
-      url: https://console.groq.com/playground
-      description: Groq AI平台。
-    - title: deno
-      logo: 
-      url: https://dash.deno.com/account/projects
-      description: Deno Deploy。
-    - title: 剪贴板
-      logo: 
-      url: https://netcut.cn/1i9kqqspi
-      description: 网络剪贴板。
-    - title: ai 语音
-      logo: 
-      url: https://viaanthroposbenevolentia.github.io/gemini-2-live-api-demo/
-      description: Gemini AI语音演示。
-    - title: panel4
-      logo: 
-      url: https://panel4.serv00.com/login/?next=/file_manager/
-      description: Serv00面板。
-    - title: 2.html
-      logo: 
-      url: https://ser07.rr.nu/2.html
-      description: 页面2。
-    - title: deep-research
-      logo: 
-      url: https://deep-research-five-blush.vercel.app/
-      description: 深度研究工具。
-    - title: ai 文生图
-      logo: 
-      url: https://vheer.com/
-      description: AI文生图工具。
-    - title: 域名提醒
-      logo: 
-      url: https://invi.zcr7.xx.kg/admin
-      description: 域名提醒管理。
-    - title: 五笔拆字
-      logo: 
-      url: http://www.daziba.cn/wbdic/
-      description: 五笔字典。
-    - title: 解析
-      logo: 
-      url: https://hostry.com/orders/
-      description: Hostry解析服务。
-    - title: youtube 下载
-      logo: 
-      url: https://youtube.iiilab.com/
-      description: YouTube视频下载。
-    - title: Gmail 生成应用密码
-      logo: 
-      url: https://myaccount.google.com/apppasswords
-      description: Gmail应用密码生成。
-    - title: 地之图
-      logo: 
-      url: https://map.ps123.net/world/List_245.html
-      description: 地图下载。
-    - title: 地图窝
-      logo: 
-      url: http://www.onegreen.net/maps/List/List_1525.html
-      description: 地图资源。
-    - title: 生成音乐
-      logo: 
-      url: https://www.tempolor.com/
-      description: AI音乐生成。
-    - title: CF 加速
-      logo: 
-      url: https://lnvisi.zcr6.dpdns.org/
-      description: Cloudflare加速。
-    - title: 倒计时器
-      logo: 
-      url: https://iglowapp.com/zh/countdown-timer/index.html
-      description: 在线倒计时。
-    - title: 在线闹钟
-      logo: 
-      url: https://onlinealarmkur.com/zh-cn/
-      description: 在线闹钟。
+      url: http://m.hydcd.cn/cd/htm_a/12789.htm
+      description: 汉语词典。
