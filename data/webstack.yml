@@ -1,92 +1,92 @@
 - taxonomy: 个人导航
   icon: fa-compass
   links:
-    - title: zk 导航
-      logo: 
+    - title: ZK 导航
+      logo: ""
       url: https://d.zcr.de5.net/
       description: ZK个人导航页。
     - title: CMoonTV
-      logo: 
+      logo: ""
       url: https://cmoontv.dedyn.io/douban?type=movie
-      description: CMoon影视站。 (Tips: 5134541165zbb)
+      description: CMoon影视站。（提示：5134541165zbb）
     - title: KVdeio
-      logo: 
+      logo: ""
       url: https://ys.zk0.de5.net/
-      description: KV影视站。 (Tips: zbb)
+      description: KV影视站。（提示：zbb）
     - title: FK 导航
-      logo: 
+      logo: ""
       url: https://d.zcr7.xx.kg/
       description: FK导航页。
     - title: 导航 adminF7
-      logo: 
+      logo: ""
       url: https://d.zcr9.qzz.io/
       description: 管理员导航。
     - title: 导
-      logo: 
+      logo: ""
       url: https://dao.zcr7.xx.kg/
       description: 简易导航页。
     - title: 导航 㭒
-      logo: 
+      logo: ""
       url: https://d.zyy7.qzz.io/
       description: 导航页。
     - title: 小站
-      logo: 
+      logo: ""
       url: https://pan666.net/
       description: 小站导航。
     - title: 影搜
-      logo: 
+      logo: ""
       url: https://yingso.fun/#/
       description: 影视搜索。
     - title: 导航４
-      logo: 
+      logo: ""
       url: https://menubarx.app/search/
       description: MenuBarX搜索。
     - title: Noise 导航
-      logo: 
+      logo: ""
       url: https://www.noisedh.cn/
       description: Noise导航。
     - title: 万有导航
-      logo: 
+      logo: ""
       url: https://wanyouw.com/
       description: 万有导航。
     - title: 老王导航
-      logo: 
+      logo: ""
       url: https://nav.eooce.com/
       description: 老王导航。
     - title: 迷鹿导航
-      logo: 
+      logo: ""
       url: https://404l.com/
       description: 迷鹿导航。
     - title: 龙轩导航
-      logo: 
+      logo: ""
       url: http://ilxdh.com/
       description: 龙轩导航。
     - title: 吾爱导航
-      logo: 
+      logo: ""
       url: https://www.gxfcseo.com/
       description: 吾爱导航。
     - title: 书签地球
-      logo: 
+      logo: ""
       url: https://www.bookmarkearth.cn/
       description: 书签地球。
     - title: 奇迹秀
-      logo: 
+      logo: ""
       url: https://www.qijishow.com/
       description: 奇迹秀。
     - title: 工具达人
-      logo: 
+      logo: ""
       url: https://dartools.com/
       description: 工具达人。
     - title: 爱达杂货铺
-      logo: 
+      logo: ""
       url: https://adzhp.com/
       description: 爱达杂货铺。
-    - title: 影视森翻
-      logo: 
+    - title: 影视森
+      logo: ""
       url: https://549.tv/
       description: 影视森。
     - title: p 动漫
-      logo: 
+      logo: ""
       url: https://www.295k.cc/
       description: 动漫网站。
 
@@ -94,142 +94,142 @@
   icon: fa-book-open
   links:
     - title: 帊帊🔭瓷
-      logo: 
+      logo: ""
       url: https://as.zcr25.dedyn.io/
       description: 个人博客。
     - title: 帊帊🔭瓷 G
-      logo: 
+      logo: ""
       url: https://as.zcr25.dedyn.io/admin
       description: 博客管理后台。
     - title: 掱掱斯
-      logo: 
+      logo: ""
       url: https://www.zcr6.ggff.net/
       description: 个人博客。
     - title: 掱掱斯 G
-      logo: 
+      logo: ""
       url: https://github.com/zbb7001/k.github.io/tree/master/_posts
       description: GitHub博客仓库。
     - title: 苩苩丝
-      logo: 
+      logo: ""
       url: https://bo.zcr06.filegear-sg.me/
       description: 个人博客。
-    - title: BB loG
-      logo: 
+    - title: BB log
+      logo: ""
       url: https://b.zk0.de5.net/?p=96
       description: BB博客。
     - title: 古诗文网
-      logo: 
+      logo: ""
       url: https://www.gushiwen.cn/shiwenv.aspx?id=8def13da8f71
       description: 古诗文网。
     - title: 筢筢🔭嬨
-      logo: 
+      logo: ""
       url: https://hx.zcr25.dedyn.io/archives
       description: 博客归档。
     - title: 筢筢🔭嬨 G
-      logo: 
+      logo: ""
       url: https://github.com/zcr07/hexo/tree/main/source/_posts
       description: Hexo博客源码。
     - title: 皅皅🔭慈
-      logo: 
+      logo: ""
       url: https://n.zcr7.ip-ddns.com/
       description: 个人博客。
     - title: 爬爬🔭茨
-      logo: 
+      logo: ""
       url: https://y.zcr8.ddns-ip.net/
       description: 个人博客。
     - title: wasmer
-      logo: 
+      logo: ""
       url: https://wasmer.io/apps/zkkev53/zk123/settings/domains
       description: Wasmer应用设置。
     - title: 葩葩🔭思
-      logo: 
+      logo: ""
       url: https://7.zcr5.ddns-ip.net/
       description: 个人博客。
     - title: 帕帕斯
-      logo: 
+      logo: ""
       url: https://kevzcr.serv00.net/
       description: 帕帕斯博客。
     - title: 袙袙斯
-      logo: 
+      logo: ""
       url: https://bo.h07.dpdns.org/
       description: 个人博客。
     - title: 袙袙斯 G
-      logo: 
+      logo: ""
       url: https://github.com/zbb7001/zb.github.io/tree/master/z
       description: GitHub博客仓库。
     - title: 测速地址
-      logo: 
+      logo: ""
       url: https://your.ls/v89nx
       description: 测速地址。
-    - title: 成语c
-      logo: 
+    - title: 成语查询
+      logo: ""
       url: https://w.zk0.de5.net/
       description: 成语查询。
     - title: 订阅
-      logo: 
+      logo: ""
       url: https://your.ls/suu86
       description: 订阅链接。
     - title: APIKEY
-      logo: 
+      logo: ""
       url: https://your.ls/3fme9
       description: API密钥。
     - title: 舥舥🔭兹
-      logo: 
+      logo: ""
       url: https://bg.zcr25.x10.mx/
       description: 个人博客。
     - title: 舥舥🔭兹 G
-      logo: 
+      logo: ""
       url: https://github.com/zcr07/git-blog-share/tree/main
       description: 博客分享仓库。
     - title: 域名
-      logo: 
+      logo: ""
       url: https://your.ls/4xs2d
       description: 域名列表。
     - title: 反代
-      logo: 
+      logo: ""
       url: https://your.ls/265ag
       description: 反代配置。
     - title: 笔记
-      logo: 
+      logo: ""
       url: https://your.ls/9b7j4
       description: 笔记记录。
     - title: ser4
-      logo: 
+      logo: ""
       url: https://panel4.serv00.com/file_manager/
       description: Serv00文件管理。
     - title: 琶琶 编辑
-      logo: 
+      logo: ""
       url: https://github.com/zb9678/zb9678.github.io/issues/2
       description: GitHub Issues编辑。
     - title: 琶琶🔭啙 G
-      logo: 
+      logo: ""
       url: https://github.com/zb9678/zb9678.github.io/issues
       description: GitHub Issues。
     - title: 叭叭粢
-      logo: 
+      logo: ""
       url: https://0.zbb25.filegear-sg.me/
       description: 个人博客。
     - title: 趴趴🔭鹚
-      logo: 
+      logo: ""
       url: https://k.zcr6.ddns-ip.net/
       description: 个人博客。
     - title: 1.html
-      logo: 
+      logo: ""
       url: https://ser09.rr.nu/1.html
       description: 页面1。
     - title: Notion
-      logo: 
+      logo: ""
       url: https://z.zcr9.qzz.io/
       description: Notion页面。
     - title: notion set
-      logo: 
+      logo: ""
       url: https://www.notion.so/24717e598c0980afacbdffc17f854799?v=24717e598c0981bda767000cdad540ef
       description: Notion设置页。
     - title: notion2
-      logo: 
+      logo: ""
       url: https://r.zb9.dpdns.org/
       description: Notion备用页。
     - title: 词典
-      logo: 
+      logo: ""
       url: http://m.hydcd.cn/cd/htm_a/12789.htm
       description: 汉语词典。
