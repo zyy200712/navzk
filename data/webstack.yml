@@ -1,23 +1,569 @@
+- taxonomy: 云盘存储
+  icon: fa-cloud-upload-alt
+  description: 各类云存储和网盘服务
+  links:
+    - title: check.proxyip
+      logo: ""
+      url: "https://check.proxyip.cmliussss.net/"
+      description: "代理IP检测工具。"
+    - title: ip2free 家宽
+      logo: ""
+      url: "https://www.ip2free.com/cn/freeProxy"
+      description: "免费家宽代理服务。 (Tips: zkkev53@ F7)"
+    - title: L2TP/IPsec
+      logo: ""
+      url: "https://ipspeed.info/free-l2tpipsec.php"
+      description: "免费L2TP/IPsec VPN服务。 (Tips: 默认密码：vpn 密钥：vpn 用户名：vpn)"
+    - title: all-l2tp
+      logo: ""
+      url: "https://www.vpnhub.me/en/all-l2tp-vpn-list.html#"
+      description: "L2TP VPN列表。"
+    - title: vpngate
+      logo: ""
+      url: "https://www.vpngate.net/en/"
+      description: "公共VPN中继服务器。 (Tips: 默认密码：vpn 密钥：vpn 用户名：vpn)"
+    - title: google云盘
+      logo: ""
+      url: "https://drive.google.com/drive/folders/1S6UH1p-nm8WMRA1gbW0Y7_KwNLeU5Sta"
+      description: "Google Drive共享文件夹。"
+    - title: onedrive
+      logo: ""
+      url: "https://onedrive.live.com/?sortField=LinkFilename&isAscending=true&viewid=8e110e38%2D6d3f%2D436c%2D8dc1%2Ddb7119ce57ab&login_hint=zb9678%40outlook%2Ecom&view=0"
+      description: "OneDrive网盘。"
+    - title: Freecloud
+      logo: ""
+      url: "https://panel.freecloud.ltd/clientarea.php"
+      description: "Freecloud服务面板。"
+    - title: Koofr
+      logo: ""
+      url: "https://app.koofr.net/app/storage/26c1e8c0-27e1-44a0-5e98-bda89429a882"
+      description: "Koofr云存储服务。"
+    - title: InfiniCLOUD
+      logo: ""
+      url: "https://soya.infini-cloud.net/browser/#https://soya.infini%2Dcloud.net/v2/dav/"
+      description: "InfiniCLOUD网盘。"
+    - title: terabox
+      logo: ""
+      url: "https://www.terabox.com/"
+      description: "TeraBox云盘。"
+    - title: MEGA
+      logo: ""
+      url: "https://mega.nz/file/68pm0I7Z#rw_FP_eFHeTf-hYsCT1i8TPev0JzLos9lxeoHhoIZRI"
+      description: "MEGA网盘。 (Tips: zcr071225@gmail.com zb)"
+    - title: 阿里云盘
+      logo: ""
+      url: "https://www.aliyundrive.com/drive"
+      description: "阿里云盘。"
+    - title: 百度云盘
+      logo: ""
+      url: "https://pan.baidu.com/disk/main?from=homeSave&_at_=1771852964418#/index?fromSource=share&category=all&path=%2F"
+      description: "百度网盘。 (Tips: 13991998174@qq.com z8 13991998174 zb0)"
+    - title: 豆包
+      logo: ""
+      url: "https://www.doubao.com/chat/drive/9488514636975106?tab=myUpload"
+      description: "豆包网盘。"
+    - title: Tools2
+      logo: ""
+      url: "https://y.zcr8.ddns-ip.net/Tool2.html#x10"
+      description: "在线工具集2。"
+    - title: 一次性网址
+      logo: ""
+      url: "https://olk.zcr4.ip-ddns.com/zbb"
+      description: "可制成一次性二维码的文本分享。"
+    - title: 未加密文本
+      logo: ""
+      url: "https://bin.zcr25.x10.mx/zbb"
+      description: "未加密文本分享。"
+    - title: 加密文本
+      logo: ""
+      url: "https://paste.to/"
+      description: "加密文本分享。"
+
+- taxonomy: 邮箱服务
+  icon: fa-envelope
+  description: 各类邮箱和临时邮件服务
+  links:
+    - title: 邮箱zk
+      logo: ""
+      url: "https://m.zcr25.dedyn.io/"
+      description: "邮箱服务。 (Tips: zkk F6)"
+    - title: 邮箱z70
+      logo: ""
+      url: "https://zcr6.qzz.io/"
+      description: "邮箱服务。 (Tips: zbbF7 70)"
+    - title: 邮箱zb9
+      logo: ""
+      url: "https://zcr5.qzz.io/"
+      description: "邮箱服务。 (Tips: zb6F7 zb9)"
+    - title: 邮箱zyy7
+      logo: ""
+      url: "https://m.zyy7.dpdns.org/"
+      description: "邮箱服务。 (Tips: zyyF6 zyy)"
+    - title: 邮箱ng
+      logo: ""
+      url: "https://cc.u07.dpdns.org/"
+      description: "邮箱服务。 (Tips: zbF7)"
+    - title: 邮箱zzz07
+      logo: ""
+      url: "https://zzz07.dpdns.org/"
+      description: "邮箱服务。 (Tips: zzz F7 zzz)"
+    - title: 邮箱113
+      logo: ""
+      url: "https://zcr5.dpdns.org/"
+      description: "邮箱服务。 (Tips: 113 F7 113)"
+    - title: 邮箱zhc
+      logo: ""
+      url: "https://zcr9.dpdns.org/"
+      description: "邮箱服务。 (Tips: zhc F7 zhc)"
+    - title: 邮箱 MoeMzk
+      logo: ""
+      url: "https://moemail.app/zh-CN/moe"
+      description: "萌邮箱服务。 (Tips: zkF6)"
+    - title: AiF 邮箱
+      logo: ""
+      url: "https://email.zrvvv.com/?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiemNyQHpydnZ2LmNvbSIsImFkZHJlc3NfaWQiOjI1NDJ9.RlIyJ95TawsTo8JfFCal8uuaLuyZkb6B-kNHwLdgG_0"
+      description: "AiF邮箱服务。"
+    - title: 邮箱proton
+      logo: ""
+      url: "https://mail.proton.me/u/1/inbox"
+      description: "ProtonMail安全邮箱。 (Tips: zkkevF6)"
+    - title: 邮箱 康的订阅
+      logo: ""
+      url: "https://zmkk.edu.kg/email"
+      description: "教育邮箱服务。 (Tips: kevinzhF7)"
+    - title: 邮箱 EDU
+      logo: ""
+      url: "https://jhb.edu.kg/email"
+      description: "教育邮箱服务。 (Tips: zkkF6 zcr071F6)"
+    - title: Gmail
+      logo: ""
+      url: "https://mail.google.com/"
+      description: "Google邮箱服务。"
+    - title: outlook
+      logo: ""
+      url: "https://outlook.live.com/mail/0/"
+      description: "Microsoft Outlook邮箱。"
+    - title: "163"
+      logo: ""
+      url: "https://hw.mail.163.com/js6/main.jsp?sid=dLGizfcclasShZmNDFiLYrOmovbOdiGw&df=email163#module=mbox.ListModule%7C%7B%22fid%22%3A1%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%7D"
+      description: "163邮箱。"
+    - title: 临时邮箱
+      logo: ""
+      url: "https://www.linshi-email.com/"
+      description: "临时邮箱服务。"
+    - title: 临时邮箱可用
+      logo: ""
+      url: "https://www.linshiyouxiang.net/"
+      description: "临时邮箱服务。"
+    - title: 24 小时邮箱
+      logo: ""
+      url: "http://24mail.chacuo.net/"
+      description: "24小时临时邮箱。"
+    - title: L 邮箱
+      logo: ""
+      url: "https://tempmail.edu.kg/"
+      description: "临时邮箱服务。"
+    - title: 一次性邮箱
+      logo: ""
+      url: "https://tempmail.plus/zh/#!"
+      description: "一次性邮箱服务。"
+    - title: zkF7
+      logo: ""
+      url: "https://www.mffac.com/"
+      description: "邮箱服务。"
+    - title: GMail 生成器
+      logo: ""
+      url: "https://products.aspose.app/email/zh/gmail-generator"
+      description: "Gmail地址生成器。"
+    - title: 邮箱gmail临时
+      logo: ""
+      url: "https://smailpro.com/temporary-email"
+      description: "临时Gmail邮箱。"
+    - title: 邮箱变种
+      logo: ""
+      url: "https://mailmeteor.com/tools/gmail-generator"
+      description: "Gmail别名生成器。"
+
+- taxonomy: 快捷工具
+  icon: fa-bolt
+  description: 常用在线工具和AI助手
+  links:
+    - title: 短链
+      logo: ""
+      url: "https://1.zbb25.filegear-sg.me/zbb"
+      description: "短链接服务。"
+    - title: 64 码 2 订阅
+      logo: ""
+      url: "https://64.zcr25.x10.mx/zbb"
+      description: "64码订阅链接。 (Tips: 多个备用地址)"
+    - title: cm 订阅转换
+      logo: ""
+      url: "https://zhhua.r07.cloudns.be/"
+      description: "CM订阅转换工具。"
+    - title: 纯净度测试
+      logo: ""
+      url: "https://ping0.cc/"
+      description: "IP纯净度测试。"
+    - title: ip
+      logo: ""
+      url: "https://ippure.com/"
+      description: "IP查询。"
+    - title: 美国地址 4
+      logo: ""
+      url: "https://ratenn.com/american.html"
+      description: "美国地址生成。"
+    - title: 谷歌翻译
+      logo: ""
+      url: "https://translate.google.com/?hl=zh-cn&sl=auto&tl=zh-CN&op=translate"
+      description: "Google翻译服务。"
+    - title: 搜狗翻译
+      logo: ""
+      url: "https://fanyi.sogou.com/text"
+      description: "搜狗翻译服务。"
+    - title: 计算器
+      logo: ""
+      url: "http://cal.apple886.com/index2.htm"
+      description: "在线计算器。"
+    - title: myip
+      logo: ""
+      url: "https://whatismyipaddress.com/"
+      description: "查询本机IP地址。"
+    - title: 无损音乐
+      logo: ""
+      url: "https://flac.music.hi.cn/"
+      description: "无损音乐下载。"
+    - title: 网易音乐
+      logo: ""
+      url: "https://music.163.com/#/my/"
+      description: "网易云音乐。"
+    - title: 国家 代码全
+      logo: ""
+      url: "https://iglowapp.com/zh/country-code-lookup/"
+      description: "国家代码查询。"
+    - title: spotify
+      logo: ""
+      url: "https://open.spotify.com/"
+      description: "Spotify音乐平台。"
+    - title: 歌曲
+      logo: ""
+      url: "https://www.vh.hk/music/list-id-24-1"
+      description: "歌曲列表。"
+    - title: Solara 音乐
+      logo: ""
+      url: "https://in.zcr7.xx.kg/"
+      description: "Solara音乐平台。"
+    - title: perplexity
+      logo: ""
+      url: "https://www.perplexity.ai"
+      description: "AI问答搜索引擎。"
+    - title: zbing.onmicrosoft.Z
+      logo: ""
+      url: "https://zbing-my.sharepoint.com/my/"
+      description: "SharePoint个人空间。"
+    - title: chatgpt
+      logo: ""
+      url: "https://chatgpt.com"
+      description: "ChatGPT对话。"
+    - title: deepseek
+      logo: ""
+      url: "https://chat.deepseek.com"
+      description: "DeepSeek AI对话。"
+    - title: Grok3
+      logo: ""
+      url: "https://grok.tech-shrimp.com/grok"
+      description: "Grok3 AI助手。"
+    - title: 文心
+      logo: ""
+      url: "https://yiyan.baidu.com/"
+      description: "文心一言AI。"
+    - title: chatbox
+      logo: ""
+      url: "https://web.chatboxai.app/"
+      description: "Chatbox AI客户端。"
+    - title: 网记 1
+      logo: ""
+      url: "https://rj.zcr4.ip-ddns.com/zbb"
+      description: "网络记事本。"
+    - title: 汇率
+      logo: ""
+      url: "https://www.msn.com/zh-cn/money/watchlist?id=avym77&tab=Markets"
+      description: "实时汇率查询。"
+    - title: 电影
+      logo: ""
+      url: "https://1.zcr7.qzz.io"
+      description: "电影资源站。 (Tips: zcrzb)"
+    - title: 域名集
+      logo: ""
+      url: "https://rj.zcr4.ip-ddns.com/zn8A6W"
+      description: "域名集合。"
+    - title: 域集 2
+      logo: ""
+      url: "https://upld.zone.id/uploads/a1iqsn7iq/yuming.txt"
+      description: "域名列表2。"
+    - title: 域集 3
+      logo: ""
+      url: "https://your.ls/q93z2"
+      description: "域名列表3。"
+    - title: 域集 4
+      logo: ""
+      url: "https://n.j07.dpdns.org/Tools.html"
+      description: "域名列表4。"
+    - title: 免翻
+      logo: ""
+      url: "https://zh.zcr4.ip-ddns.com/"
+      description: "免翻墙访问工具。"
+    - title: 草料二维码生成器
+      logo: ""
+      url: "https://cli.im/"
+      description: "二维码生成器。"
+    - title: CF
+      logo: ""
+      url: "https://dash.cloudflare.com/"
+      description: "Cloudflare管理后台。"
+    - title: github
+      logo: ""
+      url: "https://github.com/zcr07?tab=repositories"
+      description: "GitHub个人仓库。"
+    - title: 美国地址 2
+      logo: ""
+      url: "https://www.meiguodizhi.com/"
+      description: "美国地址生成器。"
+    - title: 美国地址 3
+      logo: ""
+      url: "https://www.ssnzk.com/"
+      description: "美国地址生成器。"
+    - title: telegram
+      logo: ""
+      url: "https://web.telegram.org/k/"
+      description: "Telegram网页版。"
+    - title: 真实地址生成器
+      logo: ""
+      url: "https://address.nnuu.nyc.mn/"
+      description: "真实地址生成。"
+    - title: 定时提醒
+      logo: ""
+      url: "https://inv3.zb9.netlib.re/"
+      description: "定时提醒工具。"
+    - title: VIRUSTOTAL 杀毒
+      logo: ""
+      url: "https://www.virustotal.com/gui/home/upload"
+      description: "在线病毒扫描。"
+    - title: 天气 h
+      logo: ""
+      url: "https://weather.com/zh-CN/weather/hourbyhour/l/2c84f577cefbf0dc582d0564342b14c69f7c8d331be829bd40b855e4f1fdb9da"
+      description: "天气预报。"
+    - title: wasmer.io
+      logo: ""
+      url: "https://wasmer.io/login"
+      description: "Wasmer平台。 (Tips: zk谷)"
+
 - taxonomy: 网络工具
   icon: fa-network-wired
-  description: IP查询、VPN和网络相关工具
   links:
+    - title: IPv6
+      logo: 
+      url: https://www.wetest.vip/page/cloudflare/address_v6.html
+      description: IPv6地址测试。
+    - title: IPv4 / IPv6 地址生成
+      logo: 
+      url: https://www.lddgo.net/network/randomip
+      description: 随机IP地址生成器。
+    - title: 混淆加密 2
+      logo: 
+      url: https://obfuscator.io/dashboard?plan=free
+      description: 代码混淆加密工具。
+    - title: UUID
+      logo: 
+      url: https://1024tools.com/uuid
+      description: UUID生成器。
+    - title: DNS泄露
+      logo: 
+      url: https://browserleaks.com/dns
+      description: DNS泄露检测。
+    - title: 节点转换
+      logo: 
+      url: https://sub1.zbb25.filegear-sg.me/
+      description: 订阅节点转换。
+    - title: 优选IP域名
+      logo: 
+      url: https://vps789.com/cfip/?remarks=domain
+      description: Cloudflare优选IP。
+    - title: 混淆加密 1
+      logo: 
+      url: https://toolonline.net/js-obfuscator
+      description: JavaScript混淆工具。
+    - title: CFIP
+      logo: 
+      url: https://cf.090227.xyz/
+      description: Cloudflare IP优选。
+    - title: itdog
+      logo: 
+      url: https://www.itdog.cn/tcping/:443
+      description: ITDOG网络测试。
+    - title: cm proxyip
+      logo: 
+      url: https://zip.cm.edu.kg/all.txt
+      description: CM代理IP列表。
+    - title: 站长
+      logo: 
+      url: https://ip.tool.chinaz.com/
+      description: 站长之家IP查询。
+    - title: Js 混淆加密3
+      logo: 
+      url: https://go.sssc.nyc.mn/js-obfuscator
+      description: JS混淆加密。
+    - title: IP位置
+      logo: 
+      url: https://ipjiance.com/
+      description: IP地址位置查询。
+    - title: IP的纯净值
+      logo: 
+      url: https://ipip.la/
+      description: IP纯净度检测。
+    - title: ip.sb
+      logo: 
+      url: https://ip.sb/
+      description: IP地址查询。
+    - title: DNSproxyip2
+      logo: 
+      url: https://www.nslookup.io/domains/cdn.xn--b6gac.eu.org/dns-records/
+      description: DNS代理IP查询2。
+    - title: DNSproxyip1
+      logo: 
+      url: https://www.nslookup.io/domains/cdn-all.xn--b6gac.eu.org/dns-records/
+      description: DNS代理IP查询1。
+    - title: DNSproxyip3
+      logo: 
+      url: https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
+      description: DNS代理IP查询3。
+    - title: speedtest
+      logo: 
+      url: https://fiber.google.com/speedtest/
+      description: Google网速测试。
+    - title: 104.17.0.0/24
+      logo: 
+      url: https://chapangzhan.com/104.17.0.0/24
+      description: IP段信息。
+    - title: 本机 IP
+      logo: 
+      url: https://ipv4.icanhazip.com/
+      description: 获取本机IPv4。
+    - title: 本机 IP 2
+      logo: 
+      url: https://youriptoday.com/?client_region=SG&landed=11903831981658326465
+      description: 本机IP查询2。
+    - title: 是否支持IPv6
+      logo: 
+      url: https://ip6.ro/
+      description: 检测网络是否支持IPv6。
+    - title: ip125
+      logo: 
+      url: https://ip125.com/
+      description: IP查询。
+    - title: fofa
+      logo: 
+      url: https://fofa.info/result?qbase64=YXNuIT0iMTMzMzUiICYmIGNvdW50cnk9IlNHIiAmJiBzZXJ2ZXI9PSJjbG91ZGZsYXJlIg%3D%3D
+      description: FOFA网络空间搜索引擎。
+    - title: IPinfo
+      logo: 
+      url: https://ipinfo.io/what-is-my-ip
+      description: IP信息查询。
+    - title: 固定隧道
+      logo: 
+      url: https://fscarmen.cloudflare.now.cc/
+      description: Cloudflare固定隧道。
+    - title: 公共后缀列表
+      logo: 
+      url: https://publicsuffix.org/list/public_suffix_list.dat
+      description: 公共后缀列表。
+    - title: 微测网
+      logo: 
+      url: https://www.182682.xyz/
+      description: 网络测速。
+    - title: 测网速
+      logo: 
+      url: https://www.speedtest.net/
+      description: Speedtest网速测试。
+    - title: 测速地址
+      logo: 
+      url: https://looking.house/company.php?id=263
+      description: 测速服务器地址。
+    - title: 节点订阅工具
+      logo: 
+      url: https://bulianglin.com/archives/cdn.html
+      description: 节点订阅转换工具。
+    - title: sinBox 节点
+      logo: 
+      url: https://replit.com/@zcr071225/warp-key-generator
+      description: WARP密钥生成器。
+    - title: Argosbx
+      logo: 
+      url: https://yonggekkk.github.io/argosbx/
+      description: Argosbx节点。
+    - title: Hy 节点
+      logo: 
+      url: https://panel.freecloud.ltd/clientarea.php?__cf_chl_rt_tk=tTgzNuv7NHovZtTlw0Oz4_R2bHCB3WaZtafbulGGkTM-1760935603-1.0.1.1-JmaTUw0.o1letUkO52SfMfmOMuW8ig4LX8Wd.vEL.V8
+      description: Hy节点面板。
+    - title: tunneled
+      logo: 
+      url: https://tunneled.me/
+      description: 隧道服务。
+    - title: 节点查询
+      logo: 
+      url: https://ipchaxun.com/104.21.16.77/
+      description: IP节点查询。
+    - title: 网站代理
+      logo: 
+      url: https://zh.r07.cloudns.be/
+      description: 网站代理服务。
+    - title: 查 IP 属地
+      logo: 
+      url: https://reallyfreegeoip.org/bulk
+      description: 批量IP属地查询。
+    - title: IP纯净度
+      logo: 
+      url: https://scamalytics.com/
+      description: IP纯净度检测。
+    - title: 检查 纯净
+      logo: 
+      url: https://whoer.net/zh
+      description: Whois纯净度检测。
+    - title: IP dz
+      logo: 
+      url: https://ipaddress.my/
+      description: IP地址查询。
+    - title: Hy2-TUIC
+      logo: 
+      url: https://wispbyte.com/
+      description: Hy2-TUIC协议服务。
+    - title: ip反查
+      logo: 
+      url: https://ipchaxun.com/
+      description: IP反查工具。
+    - title: ip查询网
+      logo: 
+      url: https://www.ip138.com/iplookup.php?ip=104.234.50.115&action=2
+      description: IP138查询。
+    - title: 优选测速地址
+      logo: 
+      url: https://github.com/XIU2/CloudflareSpeedTest/discussions/490
+      description: Cloudflare优选测速地址讨论。
     - title: google国家
-      logo: ""
-      url: "https://www.google.com.hk/webhp?authuser=1"
-      description: "Google搜索。"
+      logo: 
+      url: https://www.google.com.hk/webhp?authuser=1
+      description: Google搜索。
     - title: vpnjantit
-      logo: ""
-      url: "https://vpnjantit.com/free-softether-l2tp"
-      description: "免费Softether L2TP。"
+      logo: 
+      url: vpnjantit.com/free-softether-l2tp
+      description: 免费Softether L2TP。
     - title: ipchicken
-      logo: ""
-      url: "https://www.ipchicken.com/"
-      description: "IP地址查询。"
+      logo: 
+      url: https://www.ipchicken.com/
+      description: IP地址查询。
     - title: IP DiZ
-      logo: ""
-      url: "https://ip.skk.moe/"
-      description: "IP信息查询。"
+      logo: 
+      url: https://ip.skk.moe/
+      description: IP信息查询。
 
 - taxonomy: 下载资源
   icon: fa-download
