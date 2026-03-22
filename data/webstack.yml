@@ -4,15 +4,15 @@
     - title: upgit
       logo: 
       url: https://github.com/pluveto/upgit/blob/main/docs/README.zh-CN.md
-      description: upgit使用文档。
-    - title: picgo设置
+      description: upgit 使用文档。
+    - title: picgo 设置
       logo: 
       url: https://your.ls/u1t57
-      description: PicGo配置教程。 (Tips: zb)
+      description: PicGo 配置教程。(Tips: zb)
     - title: PicGo-Core
       logo: 
       url: https://picgo.github.io/PicGo-Core-Doc/zh/guide/#%E7%89%B9%E6%80%A7
-      description: PicGo-Core文档。
+      description: PicGo-Core 文档。
     - title: 正则 E
       logo: 
       url: https://regex101.com/
@@ -20,7 +20,7 @@
     - title: AHK 论坛
       logo: 
       url: https://www.autohotkey.com/boards/
-      description: AutoHotkey论坛。
+      description: AutoHotkey 论坛。
     - title: 批处理之家
       logo: 
       url: http://www.bathome.net/
@@ -28,7 +28,7 @@
     - title: HTML5 教程
       logo: 
       url: https://www.w3cschool.cn/html5/
-      description: HTML5教程。
+      description: HTML5 教程。
     - title: 電腦教室
       logo: 
       url: https://www.youtube.com/@papayaclass/videos
@@ -56,7 +56,7 @@
     - title: CM 喂饭
       logo: 
       url: https://www.youtube.com/@CMLiussss/videos
-      description: CM教程。
+      description: CM 教程。
     - title: 爱上半导体
       logo: 
       url: https://www.youtube.com/@idiode/videos
@@ -64,11 +64,11 @@
     - title: css,html
       logo: 
       url: https://www.runoob.com/js/js-tutorial.html
-      description: JavaScript教程。
+      description: JavaScript 教程。
     - title: html
       logo: 
       url: https://developer.mozilla.org/zh-CN/docs/Web/HTML
-      description: MDN HTML文档。
+      description: MDN HTML 文档。
     - title: 正则表达式入门
       logo: 
       url: https://codejiaonang.com/#/course/regex_chapter1/0/1
@@ -76,7 +76,7 @@
     - title: 在线正则表达式
       logo: 
       url: https://regexr-cn.com/
-      description: 正则表达式测试2。
+      description: 正则表达式测试 2。
     - title: 正则英文
       logo: 
       url: https://regexone.com/
@@ -84,35 +84,35 @@
     - title: 浏览器快捷
       logo: 
       url: https://support.google.com/chrome/answer/157179?hl=zh-Hans&co=GENIE.Platform=Desktop#zippy=%2C%E6%A0%87%E7%AD%BE%E9%A1%B5%E5%92%8C%E7%AA%97%E5%8F%A3%E5%BF%AB%E6%8D%B7%E9%94%AE
-      description: Chrome快捷键。
+      description: Chrome 快捷键。
     - title: github 快捷
       logo: 
       url: https://docs.github.com/zh/get-started/accessibility/keyboard-shortcuts
-      description: GitHub快捷键。
+      description: GitHub 快捷键。
     - title: cron
       logo: 
       url: https://crontab.guru/
-      description: Cron表达式解释器。
+      description: Cron 表达式解释器。
     - title: cron2
       logo: 
       url: https://cron.qqe2.com/
-      description: Cron表达式工具。
+      description: Cron 表达式工具。
     - title: MDN HTML
       logo: 
       url: https://developer.mozilla.org/zh-CN/docs/Web/HTML
-      description: MDN HTML文档。
+      description: MDN HTML 文档。
     - title: AHK 语法产生器
       logo: 
-      url: https://papple23g-ahkcompiler.herokuapp.com/ahktool)
-      description: AHK语法生成器。
+      url: https://papple23g-ahkcompiler.herokuapp.com/ahktool
+      description: AHK 语法生成器。
     - title: AHK V2
       logo: 
       url: https://wyagd001.github.io/v2/docs/
-      description: AutoHotkey V2文档。
+      description: AutoHotkey V2 文档。
     - title: mouselnc 手册
       logo: 
       url: https://docs.shuax.com/MouseInc/#/action
-      description: MouseInc手册。
+      description: MouseInc 手册。
     - title: 可可五笔
       logo: 
       url: https://www.suke.kim/ShowLink.html
