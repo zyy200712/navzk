@@ -84,39 +84,39 @@
   description: 各类邮箱和临时邮件服务
   links:
     - title: 邮箱zk
-      logo: ""
+      logo: "images/logos/moemail.png"
       url: "https://m.zcr25.dedyn.io/"
       description: "邮箱服务。 (Tips: zkk F6)"
     - title: 邮箱z70
-      logo: ""
+      logo: "images/logos/moemail.png"
       url: "https://zcr6.qzz.io/"
       description: "邮箱服务。 (Tips: zbbF7 70)"
     - title: 邮箱zb9
-      logo: ""
+      logo: "images/logos/moemail.png"
       url: "https://zcr5.qzz.io/"
       description: "邮箱服务。 (Tips: zb6F7 zb9)"
     - title: 邮箱zyy7
-      logo: ""
+      logo: "images/logos/moemail.png"
       url: "https://m.zyy7.dpdns.org/"
       description: "邮箱服务。 (Tips: zyyF6 zyy)"
     - title: 邮箱ng
-      logo: ""
+      logo: "images/logos/moemail.png"
       url: "https://cc.u07.dpdns.org/"
       description: "邮箱服务。 (Tips: zbF7)"
     - title: 邮箱zzz07
-      logo: ""
+      logo: "images/logos/moemail.png"
       url: "https://zzz07.dpdns.org/"
       description: "邮箱服务。 (Tips: zzz F7 zzz)"
     - title: 邮箱113
-      logo: ""
+      logo: "images/logos/moemail.png"
       url: "https://zcr5.dpdns.org/"
       description: "邮箱服务。 (Tips: 113 F7 113)"
     - title: 邮箱zhc
-      logo: ""
+      logo: "images/logos/moemail.png"
       url: "https://zcr9.dpdns.org/"
       description: "邮箱服务。 (Tips: zhc F7 zhc)"
     - title: 邮箱 MoeMzk
-      logo: ""
+      logo: "images/logos/moemail.png"
       url: "https://moemail.app/zh-CN/moe"
       description: "萌邮箱服务。 (Tips: zkF6)"
     - title: AiF 邮箱
