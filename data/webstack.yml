@@ -1,135 +1,175 @@
-- taxonomy: 开发工具
-  icon: fa-code
+- taxonomy: 常用网站
+  icon: fa-star
   links:
-    - title: 图床１
+    - title: 聚 BT
       logo: 
-      url: https://picx.xpoet.cn/#/upload
-      description: 图床服务1。
-    - title: 图床 2
+      url: https://jubt.fun/cn/index.html
+      description: 聚BT搜索。
+    - title: 易搜
       logo: 
-      url: https://tc.zcr4.ip-ddns.com/zbb
-      description: 图床服务2。
-    - title: 图床
+      url: https://yiso.fun/info?searchKey=%E4%B9%90%E4%B9%90
+      description: 易搜搜索引擎。
+    - title: 订阅转换 2
       logo: 
-      url: https://upld.zone.id/
-      description: 图床服务3。
-    - title: 图床 Git zcrzb
+      url: https://subw.r07.cloudns.be/
+      description: 订阅转换工具2。
+    - title: 订阅
       logo: 
-      url: https://tch.zcr5.xx.kg/
-      description: Git图床。
-    - title: 图床 zb85Zb
+      url: https://sub.cmliussss.com/
+      description: CM订阅链接。
+    - title: 订阅
       logo: 
-      url: https://mjj.today/
-      description: MJJ图床。
-    - title: Vercel
+      url: https://suburl.v1.mk/
+      description: 订阅链接转换。
+    - title: Google 活动记录
       logo: 
-      url: https://vercel.com/zcr07s-projects
-      description: Vercel部署平台。
-    - title: upstash
+      url: https://myactivity.google.com/myactivity?utm_source=chrome_h&pli=1
+      description: Google活动记录。
+    - title: Gcore zcr
       logo: 
-      url: https://upstash.com/
-      description: Upstash Redis服务。
-    - title: Netlify
+      url: https://portal.gcore.com/cdn/resources/list
+      description: Gcore CDN管理。
+    - title: cloudflare ip
       logo: 
-      url: https://app.netlify.com/teams/zcr07/projects
-      description: Netlify部署平台。
-    - title: 免费容器
+      url: https://www.cloudflare-cn.com/ips/
+      description: Cloudflare IP列表。
+    - title: 传文件
       logo: 
-      url: https://vercel.com/zcr07s-projects
-      description: 免费容器服务。
-    - title: Render
+      url: https://www.wenshushu.cn
+      description: 文叔叔传文件。
+    - title: 丁丁传文件
       logo: 
-      url: https://dashboard.render.com/
-      description: Render部署平台。
-    - title: Claw C
+      url: https://file.r07.cloudns.be/index.html
+      description: 丁丁文件传输。
+    - title: deepl
       logo: 
-      url: https://ap-northeast-1.run.claw.cloud/
-      description: Claw Cloud服务。
-    - title: claw
+      url: https://www.deepl.com/zh/translator
+      description: DeepL翻译。
+    - title: 丁丁设置
       logo: 
-      url: https://us-west-1.run.claw.cloud/
-      description: Claw Cloud服务2。
-    - title: webhost oL
+      url: https://file.r07.cloudns.be/list.html
+      description: 丁丁设置页面。
+    - title: 公式编辑
       logo: 
-      url: https://client.webhostmost.com/login
-      description: Webhostmost面板。
-    - title: Webfreecloud
+      url: https://www.latexlive.com/
+      description: LaTeX公式编辑器。
+    - title: tinypng
       logo: 
-      url: https://web.freecloud.ltd/clientarea.php?action=productdetails&id=1825
-      description: Freecloud Web服务。
-    - title: teracloud
+      url: https://tinypng.com/
+      description: 图片压缩工具。
+    - title: pdf24
       logo: 
-      url: https://aki.teracloud.jp/browser/
-      description: TeraCLOUD存储。
-    - title: Vps
+      url: https://tools.pdf24.org/zh/
+      description: PDF24工具集。
+    - title: TTs 2000 字
       logo: 
-      url: https://nat.freecloud.ltd/clientarea
-      description: Freecloud VPS。
-    - title: GitLab
+      url: https://tts.femoon.top/cn
+      description: 文本转语音。
+    - title: csdn
       logo: 
-      url: https://gitlab.com/
-      description: GitLab代码托管。
-    - title: B2
+      url: https://blog.csdn.net/z516888?type=blog
+      description: CSDN博客。
+    - title: 时间戳转换
       logo: 
-      url: https://secure.backblaze.com/b2_buckets.htm
-      description: Backblaze B2存储。
-    - title: replit
+      url: https://tool.lu/timestamp
+      description: 时间戳转换工具。
+    - title: 在线工具
       logo: 
-      url: https://replit.com/
-      description: Replit在线IDE。
-    - title: 格式转换
+      url: https://tool.lu/
+      description: 在线工具集。
+    - title: idx
       logo: 
-      url: https://www.aconvert.com/pdf/
-      description: 在线格式转换。
-    - title: base64
+      url: https://idx.google.com/z517-99013236
+      description: Google IDX。
+    - title: 虫洞
       logo: 
-      url: https://www.jyshare.com/front-end/693/
-      description: Base64编码解码。
-    - title: EASCII 码在线对照表
+      url: https://wormhole.app/
+      description: 虫洞文件传输。
+    - title: 云沙箱 8
       logo: 
-      url: https://qqe2.com/doc/eascii
-      description: EASCII码表。
-    - title: unicode
+      url: https://s.threatbook.com/
+      description: 微步在线云沙箱。
+    - title: 直链
       logo: 
-      url: https://www.unicodery.com/category/
-      description: Unicode字符查询。
-    - title: base64 a
+      url: https://link.gimhoy.com/
+      description: 直链获取工具。
+    - title: 菜鸟工具
       logo: 
-      url: https://www.base64decode.org/zh/
-      description: Base64解码。
-    - title: base64 b
+      url: https://www.jyshare.com/
+      description: 菜鸟工具。
+    - title: groq
       logo: 
-      url: https://toolonline.net/base64-encoder-decoder
-      description: Base64编码解码2。
-    - title: URL 编码格式
+      url: https://console.groq.com/playground
+      description: Groq AI平台。
+    - title: deno
       logo: 
-      url: https://www.urlencoder.org/zh/
-      description: URL编码解码。
-    - title: 汉字编码
+      url: https://dash.deno.com/account/projects
+      description: Deno Deploy。
+    - title: 剪贴板
       logo: 
-      url: https://tools.jb51.net/table/gb2312
-      description: GB2312汉字编码。
-    - title: 解码二维码
+      url: https://netcut.cn/1i9kqqspi
+      description: 网络剪贴板。
+    - title: ai 语音
       logo: 
-      url: https://jiema.wwei.cn/
-      description: 二维码解码工具。
-    - title: railway
+      url: https://viaanthroposbenevolentia.github.io/gemini-2-live-api-demo/
+      description: Gemini AI语音演示。
+    - title: panel4
       logo: 
-      url: https://railway.com/project/848a6d98-c876-4601-b878-611c6ebe69a5/service/1d018ee5-0118-4e79-b1b3-f475d0e8a4cb/variables?environmentId=ae8ad04d-46ef-48d0-96ac-99d133dc33c8
-      description: Railway部署平台。
-    - title: ASCII
+      url: https://panel4.serv00.com/login/?next=/file_manager/
+      description: Serv00面板。
+    - title: 2.html
       logo: 
-      url: https://tool.oschina.net/commons?type=4
-      description: ASCII字符表。
-    - title: 随机 32 位密码
+      url: https://ser07.rr.nu/2.html
+      description: 页面2。
+    - title: deep-research
       logo: 
-      url: https://generate-secret.vercel.app/32
-      description: 随机密码生成器。
-    - title: 中文转码
+      url: https://deep-research-five-blush.vercel.app/
+      description: 深度研究工具。
+    - title: ai 文生图
       logo: 
-      url: https://www.bchrt.com/tools/punycode-encoder/
-      description: Punycode编码转换。
-    - title: resend 发邮件
+      url: https://vheer.com/
+      description: AI文生图工具。
+    - title: 域名提醒
       logo: 
-      url: https://resend.com/emails
-      description: Resend邮件服务。
+      url: https://invi.zcr7.xx.kg/admin
+      description: 域名提醒管理。
+    - title: 五笔拆字
+      logo: 
+      url: http://www.daziba.cn/wbdic/
+      description: 五笔字典。
+    - title: 解析
+      logo: 
+      url: https://hostry.com/orders/
+      description: Hostry解析服务。
+    - title: youtube 下载
+      logo: 
+      url: https://youtube.iiilab.com/
+      description: YouTube视频下载。
+    - title: Gmail 生成应用密码
+      logo: 
+      url: https://myaccount.google.com/apppasswords
+      description: Gmail应用密码生成。
+    - title: 地之图
+      logo: 
+      url: https://map.ps123.net/world/List_245.html
+      description: 地图下载。
+    - title: 地图窝
+      logo: 
+      url: http://www.onegreen.net/maps/List/List_1525.html
+      description: 地图资源。
+    - title: 生成音乐
+      logo: 
+      url: https://www.tempolor.com/
+      description: AI音乐生成。
+    - title: CF 加速
+      logo: 
+      url: https://lnvisi.zcr6.dpdns.org/
+      description: Cloudflare加速。
+    - title: 倒计时器
+      logo: 
+      url: https://iglowapp.com/zh/countdown-timer/index.html
+      description: 在线倒计时。
+    - title: 在线闹钟
+      logo: 
+      url: https://onlinealarmkur.com/zh-cn/
+      description: 在线闹钟。
