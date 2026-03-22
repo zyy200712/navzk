@@ -1,5 +1,6 @@
 - taxonomy: 云盘存储
   icon: fa-cloud-upload-alt
+  description: 各类云存储和网盘服务
   links:
     - title: check.proxyip
       logo: ""
@@ -76,301 +77,303 @@
     - title: 加密文本
       logo: ""
       url: "https://paste.to/"
-      description: "加密文本分享。"      
+      description: "加密文本分享。"
 
 - taxonomy: 邮箱服务
   icon: fa-envelope
+  description: 各类邮箱和临时邮件服务
   links:
     - title: 邮箱zk
-      logo: 
-      url: https://m.zcr25.dedyn.io/
-      description: 邮箱服务。 (Tips: zkk F6)
+      logo: ""
+      url: "https://m.zcr25.dedyn.io/"
+      description: "邮箱服务。 (Tips: zkk F6)"
     - title: 邮箱z70
-      logo: 
-      url: https://zcr6.qzz.io/
-      description: 邮箱服务。 (Tips: zbbF7 70)
+      logo: ""
+      url: "https://zcr6.qzz.io/"
+      description: "邮箱服务。 (Tips: zbbF7 70)"
     - title: 邮箱zb9
-      logo: 
-      url: https://zcr5.qzz.io/
-      description: 邮箱服务。 (Tips: zb6F7 zb9)
+      logo: ""
+      url: "https://zcr5.qzz.io/"
+      description: "邮箱服务。 (Tips: zb6F7 zb9)"
     - title: 邮箱zyy7
-      logo: 
-      url: https://m.zyy7.dpdns.org/
-      description: 邮箱服务。 (Tips: zyyF6 zyy)
+      logo: ""
+      url: "https://m.zyy7.dpdns.org/"
+      description: "邮箱服务。 (Tips: zyyF6 zyy)"
     - title: 邮箱ng
-      logo: 
-      url: https://cc.u07.dpdns.org/
-      description: 邮箱服务。 (Tips: zbF7)
+      logo: ""
+      url: "https://cc.u07.dpdns.org/"
+      description: "邮箱服务。 (Tips: zbF7)"
     - title: 邮箱zzz07
-      logo: 
-      url: https://zzz07.dpdns.org/
-      description: 邮箱服务。 (Tips: zzz F7 zzz)
+      logo: ""
+      url: "https://zzz07.dpdns.org/"
+      description: "邮箱服务。 (Tips: zzz F7 zzz)"
     - title: 邮箱113
-      logo: 
-      url: https://zcr5.dpdns.org/
-      description: 邮箱服务。 (Tips: 113 F7 113)
+      logo: ""
+      url: "https://zcr5.dpdns.org/"
+      description: "邮箱服务。 (Tips: 113 F7 113)"
     - title: 邮箱zhc
-      logo: 
-      url: https://zcr9.dpdns.org/
-      description: 邮箱服务。 (Tips: zhc F7 zhc)
+      logo: ""
+      url: "https://zcr9.dpdns.org/"
+      description: "邮箱服务。 (Tips: zhc F7 zhc)"
     - title: 邮箱 MoeMzk
-      logo: 
-      url: https://moemail.app/zh-CN/moe
-      description: 萌邮箱服务。 (Tips: zkF6)
+      logo: ""
+      url: "https://moemail.app/zh-CN/moe"
+      description: "萌邮箱服务。 (Tips: zkF6)"
     - title: AiF 邮箱
-      logo: 
-      url: https://email.zrvvv.com/?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiemNyQHpydnZ2LmNvbSIsImFkZHJlc3NfaWQiOjI1NDJ9.RlIyJ95TawsTo8JfFCal8uuaLuyZkb6B-kNHwLdgG_0
-      description: AiF邮箱服务。
+      logo: ""
+      url: "https://email.zrvvv.com/?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiemNyQHpydnZ2LmNvbSIsImFkZHJlc3NfaWQiOjI1NDJ9.RlIyJ95TawsTo8JfFCal8uuaLuyZkb6B-kNHwLdgG_0"
+      description: "AiF邮箱服务。"
     - title: 邮箱proton
-      logo: 
-      url: https://mail.proton.me/u/1/inbox
-      description: ProtonMail安全邮箱。 (Tips: zkkevF6)
+      logo: ""
+      url: "https://mail.proton.me/u/1/inbox"
+      description: "ProtonMail安全邮箱。 (Tips: zkkevF6)"
     - title: 邮箱 康的订阅
-      logo: 
-      url: https://zmkk.edu.kg/email
-      description: 教育邮箱服务。 (Tips: kevinzhF7)
+      logo: ""
+      url: "https://zmkk.edu.kg/email"
+      description: "教育邮箱服务。 (Tips: kevinzhF7)"
     - title: 邮箱 EDU
-      logo: 
-      url: https://jhb.edu.kg/email
-      description: 教育邮箱服务。 (Tips: zkkF6 zcr071F6)
+      logo: ""
+      url: "https://jhb.edu.kg/email"
+      description: "教育邮箱服务。 (Tips: zkkF6 zcr071F6)"
     - title: Gmail
-      logo: 
-      url: https://mail.google.com/
-      description: Google邮箱服务。
+      logo: ""
+      url: "https://mail.google.com/"
+      description: "Google邮箱服务。"
     - title: outlook
-      logo: 
-      url: https://outlook.live.com/mail/0/
-      description: Microsoft Outlook邮箱。
+      logo: ""
+      url: "https://outlook.live.com/mail/0/"
+      description: "Microsoft Outlook邮箱。"
     - title: "163"
-      logo: 
-      url: https://hw.mail.163.com/js6/main.jsp?sid=dLGizfcclasShZmNDFiLYrOmovbOdiGw&df=email163#module=mbox.ListModule%7C%7B%22fid%22%3A1%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%7D
-      description: 163邮箱。
+      logo: ""
+      url: "https://hw.mail.163.com/js6/main.jsp?sid=dLGizfcclasShZmNDFiLYrOmovbOdiGw&df=email163#module=mbox.ListModule%7C%7B%22fid%22%3A1%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%7D"
+      description: "163邮箱。"
     - title: 临时邮箱
-      logo: 
-      url: https://www.linshi-email.com/
-      description: 临时邮箱服务。
+      logo: ""
+      url: "https://www.linshi-email.com/"
+      description: "临时邮箱服务。"
     - title: 临时邮箱可用
-      logo: 
-      url: https://www.linshiyouxiang.net/
-      description: 临时邮箱服务。
+      logo: ""
+      url: "https://www.linshiyouxiang.net/"
+      description: "临时邮箱服务。"
     - title: 24 小时邮箱
-      logo: 
-      url: http://24mail.chacuo.net/
-      description: 24小时临时邮箱。
+      logo: ""
+      url: "http://24mail.chacuo.net/"
+      description: "24小时临时邮箱。"
     - title: L 邮箱
-      logo: 
-      url: https://tempmail.edu.kg/
-      description: 临时邮箱服务。
+      logo: ""
+      url: "https://tempmail.edu.kg/"
+      description: "临时邮箱服务。"
     - title: 一次性邮箱
-      logo: 
-      url: https://tempmail.plus/zh/#!
-      description: 一次性邮箱服务。
+      logo: ""
+      url: "https://tempmail.plus/zh/#!"
+      description: "一次性邮箱服务。"
     - title: zkF7
-      logo: 
-      url: https://www.mffac.com/
-      description: 邮箱服务。
+      logo: ""
+      url: "https://www.mffac.com/"
+      description: "邮箱服务。"
     - title: GMail 生成器
-      logo: 
-      url: https://products.aspose.app/email/zh/gmail-generator
-      description: Gmail地址生成器。
+      logo: ""
+      url: "https://products.aspose.app/email/zh/gmail-generator"
+      description: "Gmail地址生成器。"
     - title: 邮箱gmail临时
-      logo: 
-      url: https://smailpro.com/temporary-email
-      description: 临时Gmail邮箱。
+      logo: ""
+      url: "https://smailpro.com/temporary-email"
+      description: "临时Gmail邮箱。"
     - title: 邮箱变种
-      logo: 
-      url: https://mailmeteor.com/tools/gmail-generator
-      description: Gmail别名生成器。
+      logo: ""
+      url: "https://mailmeteor.com/tools/gmail-generator"
+      description: "Gmail别名生成器。"
 
 - taxonomy: 快捷工具
   icon: fa-bolt
+  description: 常用在线工具和AI助手
   links:
     - title: 短链
-      logo: 
-      url: https://1.zbb25.filegear-sg.me/zbb
-      description: 短链接服务。
+      logo: ""
+      url: "https://1.zbb25.filegear-sg.me/zbb"
+      description: "短链接服务。"
     - title: 64 码 2 订阅
-      logo: 
-      url: https://64.zcr25.x10.mx/zbb
-      description: 64码订阅链接。 (Tips: 多个备用地址)
+      logo: ""
+      url: "https://64.zcr25.x10.mx/zbb"
+      description: "64码订阅链接。 (Tips: 多个备用地址)"
     - title: cm 订阅转换
-      logo: 
-      url: https://zhhua.r07.cloudns.be/
-      description: CM订阅转换工具。
+      logo: ""
+      url: "https://zhhua.r07.cloudns.be/"
+      description: "CM订阅转换工具。"
     - title: 纯净度测试
-      logo: 
-      url: https://ping0.cc/
-      description: IP纯净度测试。
+      logo: ""
+      url: "https://ping0.cc/"
+      description: "IP纯净度测试。"
     - title: ip
-      logo: 
-      url: https://ippure.com/
-      description: IP查询。
+      logo: ""
+      url: "https://ippure.com/"
+      description: "IP查询。"
     - title: 美国地址 4
-      logo: 
-      url: https://ratenn.com/american.html
-      description: 美国地址生成。
+      logo: ""
+      url: "https://ratenn.com/american.html"
+      description: "美国地址生成。"
     - title: 谷歌翻译
-      logo: 
-      url: https://translate.google.com/?hl=zh-cn&sl=auto&tl=zh-CN&op=translate
-      description: Google翻译服务。
+      logo: ""
+      url: "https://translate.google.com/?hl=zh-cn&sl=auto&tl=zh-CN&op=translate"
+      description: "Google翻译服务。"
     - title: 搜狗翻译
-      logo: 
-      url: https://fanyi.sogou.com/text
-      description: 搜狗翻译服务。
+      logo: ""
+      url: "https://fanyi.sogou.com/text"
+      description: "搜狗翻译服务。"
     - title: 计算器
-      logo: 
-      url: http://cal.apple886.com/index2.htm
-      description: 在线计算器。
+      logo: ""
+      url: "http://cal.apple886.com/index2.htm"
+      description: "在线计算器。"
     - title: myip
-      logo: 
-      url: https://whatismyipaddress.com/
-      description: 查询本机IP地址。
+      logo: ""
+      url: "https://whatismyipaddress.com/"
+      description: "查询本机IP地址。"
     - title: 无损音乐
-      logo: 
-      url: https://flac.music.hi.cn/
-      description: 无损音乐下载。
+      logo: ""
+      url: "https://flac.music.hi.cn/"
+      description: "无损音乐下载。"
     - title: 网易音乐
-      logo: 
-      url: https://music.163.com/#/my/
-      description: 网易云音乐。
+      logo: ""
+      url: "https://music.163.com/#/my/"
+      description: "网易云音乐。"
     - title: 国家 代码全
-      logo: 
-      url: https://iglowapp.com/zh/country-code-lookup/
-      description: 国家代码查询。
+      logo: ""
+      url: "https://iglowapp.com/zh/country-code-lookup/"
+      description: "国家代码查询。"
     - title: spotify
-      logo: 
-      url: https://open.spotify.com/
-      description: Spotify音乐平台。
+      logo: ""
+      url: "https://open.spotify.com/"
+      description: "Spotify音乐平台。"
     - title: 歌曲
-      logo: 
-      url: https://www.vh.hk/music/list-id-24-1
-      description: 歌曲列表。
+      logo: ""
+      url: "https://www.vh.hk/music/list-id-24-1"
+      description: "歌曲列表。"
     - title: Solara 音乐
-      logo: 
-      url: https://in.zcr7.xx.kg/
-      description: Solara音乐平台。
+      logo: ""
+      url: "https://in.zcr7.xx.kg/"
+      description: "Solara音乐平台。"
     - title: perplexity
-      logo: 
-      url: https://www.perplexity.ai
-      description: AI问答搜索引擎。
+      logo: ""
+      url: "https://www.perplexity.ai"
+      description: "AI问答搜索引擎。"
     - title: zbing.onmicrosoft.Z
-      logo: 
-      url: https://zbing-my.sharepoint.com/my/
-      description: SharePoint个人空间。
+      logo: ""
+      url: "https://zbing-my.sharepoint.com/my/"
+      description: "SharePoint个人空间。"
     - title: chatgpt
-      logo: 
-      url: https://chatgpt.com
-      description: ChatGPT对话。
+      logo: ""
+      url: "https://chatgpt.com"
+      description: "ChatGPT对话。"
     - title: deepseek
-      logo: 
-      url: https://chat.deepseek.com
-      description: DeepSeek AI对话。
+      logo: ""
+      url: "https://chat.deepseek.com"
+      description: "DeepSeek AI对话。"
     - title: Grok3
-      logo: 
-      url: https://grok.tech-shrimp.com/grok
-      description: Grok3 AI助手。
+      logo: ""
+      url: "https://grok.tech-shrimp.com/grok"
+      description: "Grok3 AI助手。"
     - title: 文心
-      logo: 
-      url: https://yiyan.baidu.com/
-      description: 文心一言AI。
+      logo: ""
+      url: "https://yiyan.baidu.com/"
+      description: "文心一言AI。"
     - title: chatbox
-      logo: 
-      url: https://web.chatboxai.app/
-      description: Chatbox AI客户端。
+      logo: ""
+      url: "https://web.chatboxai.app/"
+      description: "Chatbox AI客户端。"
     - title: 网记 1
-      logo: 
-      url: https://rj.zcr4.ip-ddns.com/zbb
-      description: 网络记事本。
+      logo: ""
+      url: "https://rj.zcr4.ip-ddns.com/zbb"
+      description: "网络记事本。"
     - title: 汇率
-      logo: 
-      url: https://www.msn.com/zh-cn/money/watchlist?id=avym77&tab=Markets
-      description: 实时汇率查询。
+      logo: ""
+      url: "https://www.msn.com/zh-cn/money/watchlist?id=avym77&tab=Markets"
+      description: "实时汇率查询。"
     - title: 电影
-      logo: 
-      url: https://1.zcr7.qzz.io
-      description: 电影资源站。 (Tips: zcrzb)
+      logo: ""
+      url: "https://1.zcr7.qzz.io"
+      description: "电影资源站。 (Tips: zcrzb)"
     - title: 域名集
-      logo: 
-      url: https://rj.zcr4.ip-ddns.com/zn8A6W
-      description: 域名集合。
+      logo: ""
+      url: "https://rj.zcr4.ip-ddns.com/zn8A6W"
+      description: "域名集合。"
     - title: 域集 2
-      logo: 
-      url: https://upld.zone.id/uploads/a1iqsn7iq/yuming.txt
-      description: 域名列表2。
+      logo: ""
+      url: "https://upld.zone.id/uploads/a1iqsn7iq/yuming.txt"
+      description: "域名列表2。"
     - title: 域集 3
-      logo: 
-      url: https://your.ls/q93z2
-      description: 域名列表3。
+      logo: ""
+      url: "https://your.ls/q93z2"
+      description: "域名列表3。"
     - title: 域集 4
-      logo: 
-      url: https://n.j07.dpdns.org/Tools.html
-      description: 域名列表4。
+      logo: ""
+      url: "https://n.j07.dpdns.org/Tools.html"
+      description: "域名列表4。"
     - title: 免翻
-      logo: 
-      url: https://zh.zcr4.ip-ddns.com/
-      description: 免翻墙访问工具。
+      logo: ""
+      url: "https://zh.zcr4.ip-ddns.com/"
+      description: "免翻墙访问工具。"
     - title: 草料二维码生成器
-      logo: 
-      url: https://cli.im/
-      description: 二维码生成器。
+      logo: ""
+      url: "https://cli.im/"
+      description: "二维码生成器。"
     - title: CF
-      logo: 
-      url: https://dash.cloudflare.com/
-      description: Cloudflare管理后台。
+      logo: ""
+      url: "https://dash.cloudflare.com/"
+      description: "Cloudflare管理后台。"
     - title: github
-      logo: 
-      url: https://github.com/zcr07?tab=repositories
-      description: GitHub个人仓库。
+      logo: ""
+      url: "https://github.com/zcr07?tab=repositories"
+      description: "GitHub个人仓库。"
     - title: 美国地址 2
-      logo: 
-      url: https://www.meiguodizhi.com/
-      description: 美国地址生成器。
+      logo: ""
+      url: "https://www.meiguodizhi.com/"
+      description: "美国地址生成器。"
     - title: 美国地址 3
-      logo: 
-      url: https://www.ssnzk.com/
-      description: 美国地址生成器。
+      logo: ""
+      url: "https://www.ssnzk.com/"
+      description: "美国地址生成器。"
     - title: telegram
-      logo: 
-      url: https://web.telegram.org/k/
-      description: Telegram网页版。
+      logo: ""
+      url: "https://web.telegram.org/k/"
+      description: "Telegram网页版。"
     - title: 真实地址生成器
-      logo: 
-      url: https://address.nnuu.nyc.mn/
-      description: 真实地址生成。
+      logo: ""
+      url: "https://address.nnuu.nyc.mn/"
+      description: "真实地址生成。"
     - title: 定时提醒
-      logo: 
-      url: https://inv3.zb9.netlib.re/
-      description: 定时提醒工具。
+      logo: ""
+      url: "https://inv3.zb9.netlib.re/"
+      description: "定时提醒工具。"
     - title: VIRUSTOTAL 杀毒
-      logo: 
-      url: https://www.virustotal.com/gui/home/upload
-      description: 在线病毒扫描。
+      logo: ""
+      url: "https://www.virustotal.com/gui/home/upload"
+      description: "在线病毒扫描。"
     - title: 天气 h
-      logo: 
-      url: https://weather.com/zh-CN/weather/hourbyhour/l/2c84f577cefbf0dc582d0564342b14c69f7c8d331be829bd40b855e4f1fdb9da
-      description: 天气预报。
+      logo: ""
+      url: "https://weather.com/zh-CN/weather/hourbyhour/l/2c84f577cefbf0dc582d0564342b14c69f7c8d331be829bd40b855e4f1fdb9da"
+      description: "天气预报。"
     - title: wasmer.io
-      logo: 
-      url: https://wasmer.io/login
-      description: Wasmer平台。 (Tips: zk谷)
+      logo: ""
+      url: "https://wasmer.io/login"
+      description: "Wasmer平台。 (Tips: zk谷)"
 
 - taxonomy: 网络工具
   icon: fa-network-wired
+  description: IP查询、VPN和网络相关工具
   links:
-    # ... 前面的链接保持不变 ...
     - title: google国家
-      logo: 
-      url: https://www.google.com.hk/webhp?authuser=1
-      description: Google搜索。
+      logo: ""
+      url: "https://www.google.com.hk/webhp?authuser=1"
+      description: "Google搜索。"
     - title: vpnjantit
-      logo: 
-      url: https://vpnjantit.com/free-softether-l2tp
-      description: 免费Softether L2TP。
+      logo: ""
+      url: "https://vpnjantit.com/free-softether-l2tp"
+      description: "免费Softether L2TP。"
     - title: ipchicken
-      logo: 
-      url: https://www.ipchicken.com/
-      description: IP地址查询。
+      logo: ""
+      url: "https://www.ipchicken.com/"
+      description: "IP地址查询。"
     - title: IP DiZ
-      logo: 
-      url: https://ip.skk.moe/
-      description: IP信息查询。
+      logo: ""
+      url: "https://ip.skk.moe/"
+      description: "IP信息查询。"
