@@ -7,7 +7,7 @@
       url: "https://check.proxyip.cmliussss.net/"
       description: "代理IP检测工具。"
     - title: ip2free 家宽
-      logo: ""
+      logo: "https://www.google.com/s2/favicons?sz=64&domain=www.ip2free.com"
       url: "https://www.ip2free.com/cn/freeProxy"
       description: "免费家宽代理服务。 (Tips: zkkev53@ F7)"
     - title: L2TP/IPsec
